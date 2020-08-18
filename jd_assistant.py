@@ -5,6 +5,9 @@ import os
 import pickle
 import re
 import random
+
+import pymysql
+
 import time
 
 import requests
